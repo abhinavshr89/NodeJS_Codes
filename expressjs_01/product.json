@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Laptop",
+      "price": 999,
+      "featured": false,
+      "company": "dell"
+    },
+    {
+      "name": "Smartwatch",
+      "price": 199,
+      "featured": true,
+      "company": "samsung"
+    },
+    {
+      "name": "Tablet",
+      "price": 399,
+      "featured": false,
+      "company": "apple"
+    },
+    {
+      "name": "Headphones",
+      "price": 79,
+      "featured": false,
+      "company": "mi"
+    }
+  ]
